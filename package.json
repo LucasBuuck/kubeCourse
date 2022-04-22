@@ -1,0 +1,20 @@
+{
+  "name": "kube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasBuuck/kubeCourse.git"
+  },
+  "author": "Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasBuuck/kubeCourse/issues"
+  },
+  "homepage": "https://github.com/LucasBuuck/kubeCourse#readme"
+}
